@@ -1,5 +1,5 @@
-Hi 👋 My name is Durga Prasad Das, Yet you can me Dugu
-======================================================
+Hi 👋 My name is Durga Prasad Das, Yet you can call me Dugu
+===========================================================
 
 React Js Developer
 ------------------
