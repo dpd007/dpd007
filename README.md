@@ -8,7 +8,6 @@ A MCA guy who finds peace with HTML,CSS, JavaScript and React
 
 * 🌍  I'm based in Odisha, India
 * ✉️  You can contact me at [dasdurga923@gmail.com](mailto:dasdurga923@gmail.com)
-* 🧠  I'm learning Next Js and Redux
 * 🤝  I'm open to collaborating on Anything that intrigues me
 
 ### Skills
