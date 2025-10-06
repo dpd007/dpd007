@@ -1,12 +1,12 @@
 Hi 👋 My name is Durga Prasad Das, Yet you can call me Dugu
 ===========================================================
 
-React Js Developer
+React Js Developer | MERN DEVELOPER
 ------------------
 
 A MCA guy who finds peace with HTML,CSS, JavaScript and React
 
-* 🌍  I'm based in Odisha, India
+* 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [dasdurga923@gmail.com](mailto:dasdurga923@gmail.com)
 * 🤝  I'm open to collaborating on Anything that intrigues me
 
@@ -14,7 +14,6 @@ A MCA guy who finds peace with HTML,CSS, JavaScript and React
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
